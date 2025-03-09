@@ -1,0 +1,35 @@
+---
+title: 'What makes a journalist?'
+pubDate: 'February 02 2024'
+---
+
+<p><img alt="A woman in a nun’s habit and robe sits before a book surrounded in an opulent library with gilded books and tapestries\u002Fcolorful designs on the walls" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*FxmVHpPUO2aN3nnR-w4pow.jpeg" style="height:621px; width:497px" /></p>
+
+<h6>Studying history doesn’t have to be a solo activity. In history class we saw many beautiful primary sources like this one, which is at the <a href="https://digitalcollections.nypl.org/items/510d47da-ebc1-a3d9-e040-e00a18064a99">New York Public Library</a>, via <a href="https://www.foliamagazine.it/en/the-erythraean-sibyl/">folia magazine</a>.</h6>
+
+<em>(originally published in <a href="https://jskfellows.stanford.edu/what-makes-a-journalist-839727f79e2f">JSK fellows</a>)</em>
+
+What makes a journalist? Is it reporting or editing or strategizing or coding? Is it an action, or the end to which the action is in service?
+
+While the simplest answers to these questions seem to be found in the byline, that single metric may obscure more than it reveals both in terms of the multifaceted team effort that journalism is and in regard to the wider ecosystem of support on which many journalists rely.
+
+These questions have been personal for me <a href="https://jsk.stanford.edu/fellows/class-of-2024/erika-owens">as someone who</a> has worked in the journalism industry in mostly in-between, hard-to-describe roles and who has an incredibly short list of bylines. But they’re also professional, having worked for the last decade with OpenNews <a href="https://source.opennews.org/articles/what-local-coders-can-tell-us-about-our-industry/">supporting the community of technologists</a> in journalism whose unique perspectives are often overlooked and misunderstood even when they have some of the most sought-after skills in our industry.
+
+A little bit of intellectual conundrum, a little bit of personal insecurity: this seemed like exactly something to ponder in the exploratory setting of my <a href="https://jsk.stanford.edu/fellows/">John S. Knight Journalism Fellowship</a> at Stanford.
+
+<h3>A view askew</h3>
+
+Having been immersed so deeply in journalism culture, I was excited about this fellowship as an opportunity to explore perspectives outside of our (let’s be honest!) pretty navel-gazing world. As soon as I looked at the class listings at Stanford, I knew I wanted to take <a href="https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=HISTORY+302B&collapse=">a class on the history of commodities in the 1200–1800s</a>. In part, this class appealed to me out of general interest. I love trying to understand aspects of everyday life: How is it that <a href="https://www.jstor.org/stable/j.ctvcwnpgg">coffee drinking is only documented as starting in the 15th century</a>? Learning that something so commonplace is so recent fascinates me and prompts me to question other things that just seem like “they’ve always been here.” I was also hoping that the interdisciplinary nature of the course might help me understand a different and potentially analogous field.
+
+Like journalism, history seems to be a field with its own storied myths and ideas of itself. I get the impression from my classmates that burying yourself in the archives may have a similar mystique to the bustle of the newsroom on election night. With this slightly tangential perspective, I have noticed some common values:
+
+<ul><li><strong>Learning from everyone</strong> — this history class is a mix of undergraduates and graduate students at various points in their study and from a range of areas of expertise. I noticed immediately how the professor and other students would eagerly turn to one another to learn a translation from a student who knows Arabic or learn about textiles from a student with expertise in fibers or find out about the religious or literary relevance of a piece from students expert on those topics. The best in journalism is driven by a similar urge to learn from everyone in the room, whether it be at a professional conference or reporting on a city council hearing. It was neat (and a little unexpected) to see it practiced in an elite classroom as well.</li>
+<li><strong>Valuing verifiable expertise</strong> — as we learn from each other in the class, students and the professor alike are extremely careful in setting out the boundaries of their knowledge and describing how they acquired it, with work in the archives and with direct sources being prized most of all. This also reminds me of journalistic ethics regarding sourcing, transparency, accuracy, and clarity.</li>
+<li><strong>Recognizing the importance of interconnectedness</strong> — this is probably what has drawn me both to history and journalism throughout my life. It’s always exciting to see how seemingly disparate threads get tied together in conversation. How one person’s expertise prompts an idea from someone else who wouldn’t have gotten there on their own. Seeing how this conversational, collaborative interplay informs historic scholarship in real time reminds me of the power when that happens in journalism too, whether it be in a workshop or an editorial planning meeting.</li></ul>
+
+<h3>Connecting the connectors</h3>
+
+Finding and supporting interconnectedness isn’t often top of the list of what journalists do, but I know that it animates my work in this field. It’s a theme JSK alum <a href="https://www.magotorres.net/">Mago Torres</a> <a href="https://opennews.org/blog/survey-first-look/">found in survey research with OpenNews’</a> multidisciplinary community: “both tech and culture are core for this community and for the future of journalism. These challenges [facing journalism] cannot be solved by one, two, or three journalists alone, but must be handled collectively.” Like the development of interdisciplinary areas of history, journalism too would be strengthened if it recognized the importance of in-between <a href="https://hbr.org/2019/05/cross-silo-leadership">roles that connect people and ideas</a>, often in unexpected ways. If learning from each other, valuing transparency and accuracy, and connecting ideas across disciplines works for historians in understanding the past, why shouldn’t it also drive journalism in documenting the here and now?
+
+In the closing reading for this class, anthropologist Sidney Mintz wrote: “We may aspire to change the world, rather than merely observe it. But we need to understand how it works in order to change it in socially effective ways.” The “we” for him was his fellow anthropologists, but this statement can apply to journalists as well. Throughout this fellowship, I hope to build a more nuanced understanding of how collective action drives social change and the role of journalists within it. If you are also curious about these topics and would like to chat or have more questions or further reading recommendations, <a href="mailto:erikaow@stanford.edu">please reach out</a>.
+
